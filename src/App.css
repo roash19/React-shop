@@ -1,0 +1,15 @@
+body {
+  margin-top: 20px;
+}
+
+.menu{
+  margin-bottom: 20px;
+}
+
+.ui.card>.image, .ui.cards>.card>.image {
+  height: 300px;
+}
+
+.ui.popup {
+  min-width: max-content;
+}
